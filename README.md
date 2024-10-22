@@ -1,7 +1,7 @@
 # Jupyter Notebooks
-En samling af Jupyter Notebooks som dokumenterer python scripts som hjælpeværktøjer, databearbejdning og visualisering, og som blandt andet hjælper Ballerup Kommune med at:
-* Hente data fra Tinglysnigen
-* Berige geodata med metadata fra geodata-info.dk
-* Stemningsanalyse i facebookgrupper
-* Udtrække tekst fra plandokument-PDF'er
-* Hente oplysninger om biler på baggrund af nummerplader
+A collection of Jupyter Notebooks that document python scripts as auxiliary tools, data processing and visualization, and which, among other things, help Ballerup Municipality to:
+* Retrieve data from the land registry
+* Enrich geodata with metadata from geodata-info.dk
+* Mood analysis in Facebook groups
+* Extract text from plan document PDFs
+* Retrieve information about cars based on number plates
